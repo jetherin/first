@@ -1,0 +1,8 @@
+<div id="game">
+  <p id="result"></p>
+  <p>Your move: <span id="playerMove"></span></p>
+  <p>Computer's move: <span id="computerMove"></span></p>
+  <button id="rock">Rock</button>
+  <button id="paper">Paper</button>
+  <button id="scissors">Scissors</button>
+</div>
